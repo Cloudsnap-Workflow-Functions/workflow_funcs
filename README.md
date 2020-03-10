@@ -1,1 +1,1 @@
-# wf_funcs
+# For storing functions used on platform
