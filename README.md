@@ -1,4 +1,4 @@
-# Repository for implementation functions/programs
+# Repository for implementation functions
 
 
 **Rules**
